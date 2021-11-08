@@ -1,0 +1,11 @@
+name: Stats Menu
+main: Revand\Main
+api: 3.0.0
+depend: ["InventoryAPI", "KDR", "JumpRecord"]
+author: RevandDev
+version: 0.1.0
+
+commands:
+  stats:
+    description: "Statistik"
+    aliases: ["yourinfo", "youstats"]
